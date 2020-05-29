@@ -5,5 +5,6 @@
 ## Extensions
 ### Docker
 ### PluralSight
+### https://code.visualstudio.com/docs/languages/typescript
 ## Guides
 ### https://app.pluralsight.com/guides/visual-studio-code-for-software-development
