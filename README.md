@@ -4,5 +4,6 @@
 ![Auto Guess Encoding](https://snipboard.io/36Txfc.jpg)
 ## Extensions
 ### Docker
+### PluralSight
 ## Guides
 ### https://app.pluralsight.com/guides/visual-studio-code-for-software-development
