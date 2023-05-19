@@ -4,6 +4,7 @@
 ![Auto Guess Encoding](https://snipboard.io/36Txfc.jpg)
 ## Extensions
 ### Toggle auto-cloaking https://github.com/dotenv-org/dotenv-vscode
+- [x] https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
 ### Docker
 ### PluralSight
 ### https://code.visualstudio.com/docs/languages/typescript
